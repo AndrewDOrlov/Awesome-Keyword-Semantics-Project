@@ -46,7 +46,7 @@ https://habr.com/ru/post/349864/
 
 **Текстовые корпуса**
 библиотека проекта Natasha https://natasha.github.io/corus/
-открытый датасет Lenata.ru https://github.com/yutkin/Lenta.Ru-News-Dataset
+открытый датасет Lenta.ru https://github.com/yutkin/Lenta.Ru-News-Dataset
 корпус Taiga https://tatianashavrina.github.io/taiga_site/
 датасет РИА Новости https://github.com/RossiyaSegodnya/ria_news_dataset
 
