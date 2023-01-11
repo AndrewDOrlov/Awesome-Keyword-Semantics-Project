@@ -44,7 +44,13 @@ https://habr.com/ru/company/vk/blog/516214/
 https://habr.com/ru/post/516098/
 https://habr.com/ru/post/349864/
 
-**Navec - коллекция предобученных эмбеддингов**
+**Текстовые корпуса**
+библиотека проекта Natasha https://natasha.github.io/corus/
+открытый датасет Lenata.ru https://github.com/yutkin/Lenta.Ru-News-Dataset
+корпус Taiga https://tatianashavrina.github.io/taiga_site/
+датасет РИА Новости https://github.com/RossiyaSegodnya/ria_news_dataset
+
+**Navec - коллекция предобученных эмбеддингов проекта Natasha**
 https://github.com/natasha/navec
 
 **РуСентиЛекс – электронный словарь экспрессивно окрашенной лексики**
