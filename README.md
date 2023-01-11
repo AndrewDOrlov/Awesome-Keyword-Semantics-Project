@@ -52,7 +52,10 @@ https://habr.com/ru/post/349864/
 корпус Taiga https://tatianashavrina.github.io/taiga_site/
 датасет РИА Новости https://github.com/RossiyaSegodnya/ria_news_dataset
 
-**Navec - коллекция предобученных эмбеддингов проекта Natasha**
+**Rusvectores - библиотека вложений**
+https://rusvectores.org/ru/models/
+
+**Navec - коллекция предобученных вложений проекта Natasha**
 https://github.com/natasha/navec
 
 **РуСентиЛекс – электронный словарь экспрессивно окрашенной лексики**
