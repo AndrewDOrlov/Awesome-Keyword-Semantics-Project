@@ -67,6 +67,8 @@
 
 [Визуализация вложений Word2Vec в Word с помощью t-SNE](https://machinelearningmastery.ru/google-news-and-leo-tolstoy-visualizing-word2vec-word-embeddings-with-t-sne-11558d8bd4d/)
 
+[Проект Natasha](https://github.com/natasha)
+
 [Описание проекта Natasha](https://habr.com/ru/post/516098/)
 
 [Дополнительное описание проекта Natasha](https://habr.com/ru/post/349864/)
