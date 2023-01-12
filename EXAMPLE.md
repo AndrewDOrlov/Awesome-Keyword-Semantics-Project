@@ -55,6 +55,13 @@
 [Описание алгоритмов для выделения ключевых слов: Rake, YAKE!, TextRank](https://vc.ru/newtechaudit/449493-algoritmy-dlya-vydeleniya-klyuchevyh-slov-rake-yake-textrank)
 [Создание семантических полей на основе ключевых слов](https://habr.com/ru/company/surfingbird/blog/301922/)
 
+
+[Описание проекта Natasha](https://habr.com/ru/post/516098/)
+[Дополнительное описание проекта Natasha](https://habr.com/ru/post/349864/)
+
+[Rusvectores - библиотека вложений](https://rusvectores.org/ru/models/)
+pNavec - коллекция предобученных вложений проекта Natasha](https://github.com/natasha/navec)
+
 **извлечение именованных сущностей**
 [Описание проекта NRLPK](https://habr.com/ru/post/468141/)
 [проект NRLPK](https://github.com/avl33/nrlpk)
@@ -64,36 +71,17 @@ https://habr.com/ru/post/334668/
 https://habr.com/ru/post/470618/
 https://habr.com/ru/company/otus/blog/503398/
 
+**Дополнительно**
+[библиотека проекта Natasha](https://natasha.github.io/corus/)
+[открытый датасет Lenta.ru](https://github.com/yutkin/Lenta.Ru-News-Dataset)
+[корпус Taiga](https://tatianashavrina.github.io/taiga_site/)
+[датасет РИА Новости](https://github.com/RossiyaSegodnya/ria_news_dataset)
 
-https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28
-https://towardsdatascience.com/introduction-to-nlp-part-5a-unsupervised-topic-model-in-python-733f76b3dc2d
-https://towardsdatascience.com/introduction-to-nlp-part-5a-unsupervised-topic-model-in-python-733f76b3dc2d
-https://towardsdatascience.com/the-ultimate-guide-to-clustering-algorithms-and-topic-modeling-3a65129df324
-https://medium.com/grabngoinfo/zero-shot-topic-modeling-with-deep-learning-using-python-a895d2d0c773
-
-https://aclanthology.org/R19-1159/
-https://aclanthology.org/D09-1026/
-https://aclanthology.org/2020.acl-main.73/
-
-**анализ тональности**
-https://habr.com/ru/company/vk/blog/516214/
-
-**проект Natasha**
-https://habr.com/ru/post/516098/
-https://habr.com/ru/post/349864/
-
-**Rusvectores - библиотека вложений**
-https://rusvectores.org/ru/models/
-
-**Navec - коллекция предобученных вложений проекта Natasha**
-https://github.com/natasha/navec
-
-**РуСентиЛекс – электронный словарь экспрессивно окрашенной лексики**
-https://www.labinform.ru/pub/rusentilex/index.htm
-
-**Текстовые корпуса**
-библиотека проекта Natasha https://natasha.github.io/corus/
-открытый датасет Lenta.ru https://github.com/yutkin/Lenta.Ru-News-Dataset
-корпус Taiga https://tatianashavrina.github.io/taiga_site/
-датасет РИА Новости https://github.com/RossiyaSegodnya/ria_news_dataset
-
+[РуСентиЛекс – электронный словарь экспрессивно окрашенной лексики](https://www.labinform.ru/pub/rusentilex/index.htm)
+[Using LDA Topic Models as a Classification Model Input](https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28)
+[Unsupervised topic model in Python](https://towardsdatascience.com/introduction-to-nlp-part-5a-unsupervised-topic-model-in-python-733f76b3dc2d)
+[The Ultimate Guide to Clustering Algorithms and Topic Modeling](https://towardsdatascience.com/the-ultimate-guide-to-clustering-algorithms-and-topic-modeling-3a65129df324)
+[Zero-shot Topic Modeling with Deep Learning Using Python Hugging Face](https://medium.com/grabngoinfo/zero-shot-topic-modeling-with-deep-learning-using-python-a895d2d0c773)
+[Multilingual Dynamic Topic Model](https://aclanthology.org/R19-1159/)
+[Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora](https://aclanthology.org/D09-1026/)
+[Tree-Structured Neural Topic Model](https://aclanthology.org/2020.acl-main.73/)
