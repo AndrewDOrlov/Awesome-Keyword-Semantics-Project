@@ -53,7 +53,7 @@
 
 **извлечение ключевых слов**
 
-[Использование TF IDF для формирования описательных резюме глав посредством извлечения ключевых слов](https://machinelearningmastery.ru/using-tf-idf-to-form-descriptive-chapter-summaries-via-keyword-extraction-4e6fd857d190/)
+[Использование TF IDF для формирования описательных резюме глав посредством извлечения ключевых слов](https://towardsdatascience.com/using-tf-idf-to-form-descriptive-chapter-summaries-via-keyword-extraction-4e6fd857d190)
 
 [Описание алгоритмов для выделения ключевых слов: Rake, YAKE!, TextRank](https://vc.ru/newtechaudit/449493-algoritmy-dlya-vydeleniya-klyuchevyh-slov-rake-yake-textrank)
 
