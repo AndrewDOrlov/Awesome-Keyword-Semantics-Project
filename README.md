@@ -82,9 +82,9 @@
 
 **тематическое моделирование**
 
-https://habr.com/ru/post/334668/
-https://habr.com/ru/post/470618/
-https://habr.com/ru/company/otus/blog/503398/
+[Тематическое моделирование средствами BigARTM](https://habr.com/ru/post/334668/)
+[Тематическое моделирование новостей с помощью факторного анализа](https://habr.com/ru/post/470618/)
+[Тематическое моделирование форума](https://habr.com/ru/company/otus/blog/503398/)
 
 **Дополнительно**
 
