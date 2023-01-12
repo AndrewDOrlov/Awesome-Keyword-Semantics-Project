@@ -53,15 +53,27 @@
 
 **извлечение ключевых слов**
 
+[Использование TF IDF для формирования описательных резюме глав посредством извлечения ключевых слов](https://machinelearningmastery.ru/using-tf-idf-to-form-descriptive-chapter-summaries-via-keyword-extraction-4e6fd857d190/)
+
 [Описание алгоритмов для выделения ключевых слов: Rake, YAKE!, TextRank](https://vc.ru/newtechaudit/449493-algoritmy-dlya-vydeleniya-klyuchevyh-slov-rake-yake-textrank)
+
 [Создание семантических полей на основе ключевых слов](https://habr.com/ru/company/surfingbird/blog/301922/)
 
+**Векторное представление слов**
+
+[Word2Vec: как работать с векторными представлениями слов](https://neurohive.io/ru/osnovy-data-science/word2vec-vektornye-predstavlenija-slov-dlja-mashinnogo-obuchenija/)
+
+[Обучаем Word2vec: практикум по созданию векторных моделей языка](https://sysblok.ru/knowhow/obuchaem-word2vec-praktikum-po-sozdaniju-vektornyh-modelej-jazyka/)
+
+[Визуализация вложений Word2Vec в Word с помощью t-SNE](https://machinelearningmastery.ru/google-news-and-leo-tolstoy-visualizing-word2vec-word-embeddings-with-t-sne-11558d8bd4d/)
 
 [Описание проекта Natasha](https://habr.com/ru/post/516098/)
+
 [Дополнительное описание проекта Natasha](https://habr.com/ru/post/349864/)
 
 [Rusvectores - библиотека вложений](https://rusvectores.org/ru/models/)
-pNavec - коллекция предобученных вложений проекта Natasha](https://github.com/natasha/navec)
+
+[Navec - коллекция предобученных вложений проекта Natasha](https://github.com/natasha/navec)
 
 **извлечение именованных сущностей**
 
@@ -77,15 +89,25 @@ https://habr.com/ru/company/otus/blog/503398/
 **Дополнительно**
 
 [библиотека проекта Natasha](https://natasha.github.io/corus/)
+
 [открытый датасет Lenta.ru](https://github.com/yutkin/Lenta.Ru-News-Dataset)
+
 [корпус Taiga](https://tatianashavrina.github.io/taiga_site/)
+
 [датасет РИА Новости](https://github.com/RossiyaSegodnya/ria_news_dataset)
 
 [РуСентиЛекс – электронный словарь экспрессивно окрашенной лексики](https://www.labinform.ru/pub/rusentilex/index.htm)
+
 [Using LDA Topic Models as a Classification Model Input](https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28)
+
 [Unsupervised topic model in Python](https://towardsdatascience.com/introduction-to-nlp-part-5a-unsupervised-topic-model-in-python-733f76b3dc2d)
+
 [The Ultimate Guide to Clustering Algorithms and Topic Modeling](https://towardsdatascience.com/the-ultimate-guide-to-clustering-algorithms-and-topic-modeling-3a65129df324)
+
 [Zero-shot Topic Modeling with Deep Learning Using Python Hugging Face](https://medium.com/grabngoinfo/zero-shot-topic-modeling-with-deep-learning-using-python-a895d2d0c773)
+
 [Multilingual Dynamic Topic Model](https://aclanthology.org/R19-1159/)
+
 [Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora](https://aclanthology.org/D09-1026/)
+
 [Tree-Structured Neural Topic Model](https://aclanthology.org/2020.acl-main.73/)
