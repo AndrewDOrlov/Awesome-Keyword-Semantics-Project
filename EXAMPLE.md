@@ -49,9 +49,10 @@
 - отладка приложения, разработка интерфейса;
 - тестирование приложения в работе с календарем или новостной лентой;
 
-**Ссылки:** 
+### Ссылки 
 
 **извлечение ключевых слов**
+
 [Описание алгоритмов для выделения ключевых слов: Rake, YAKE!, TextRank](https://vc.ru/newtechaudit/449493-algoritmy-dlya-vydeleniya-klyuchevyh-slov-rake-yake-textrank)
 [Создание семантических полей на основе ключевых слов](https://habr.com/ru/company/surfingbird/blog/301922/)
 
@@ -63,15 +64,18 @@
 pNavec - коллекция предобученных вложений проекта Natasha](https://github.com/natasha/navec)
 
 **извлечение именованных сущностей**
+
 [Описание проекта NRLPK](https://habr.com/ru/post/468141/)
 [проект NRLPK](https://github.com/avl33/nrlpk)
 
 **тематическое моделирование**
+
 https://habr.com/ru/post/334668/
 https://habr.com/ru/post/470618/
 https://habr.com/ru/company/otus/blog/503398/
 
 **Дополнительно**
+
 [библиотека проекта Natasha](https://natasha.github.io/corus/)
 [открытый датасет Lenta.ru](https://github.com/yutkin/Lenta.Ru-News-Dataset)
 [корпус Taiga](https://tatianashavrina.github.io/taiga_site/)
