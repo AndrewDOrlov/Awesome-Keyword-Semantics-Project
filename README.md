@@ -2,11 +2,11 @@
 
 **Цель:** разработка системы, выделяющей ключевые слова (n-граммы) в тексте публикации и оценивающей их семантическое сходство со словами в заголовках и тегах; На основании полученных данных система выделяет наиболее подходящие для каждого текста ключевые слова и визуализирует их как часть общего для корпуса облака тегов.
 
+**Поддерживаемые языки:** русский.
+
 **Перспективы использования** – выявление ошибочно использованных, повторяющихся и пересекающихся тегов, выявления тематического несоответствия заголовков и текстов публикаций. Визуализация нового облака тегов.
 
 **Перспективы дальнейшей разработки** – Поиск дубликатов тегов именованных сущностей с помощью средств NER. Добавление средств для обработки текста на английском языке.
-
-**Поддерживаемые языки:** русский.
 
 **Уточнение цели:** публикации в интернете часто сопровождаются тегами для упрощения поисковых задач. В качестве примеров предлагается рассмотреть сайт [SecurityLab.ru](https://www.securitylab.ru/), посвященный кибербезопасности и [ICT.Moscow](https://ict.moscow/), посвященный ИКТ в целом. Все материалы сайтов открыты для импользования.
 
@@ -55,21 +55,11 @@
 
 **извлечение ключевых слов**
 
-[Использование TF IDF для формирования описательных резюме глав посредством извлечения ключевых слов, перевод](https://machinelearningmastery.ru/using-tf-idf-to-form-descriptive-chapter-summaries-via-keyword-extraction-4e6fd857d190/)
-
-[Использование TF IDF для формирования описательных резюме глав посредством извлечения ключевых слов, оригинал](https://towardsdatascience.com/using-tf-idf-to-form-descriptive-chapter-summaries-via-keyword-extraction-4e6fd857d190)
-
 [Описание алгоритмов для выделения ключевых слов: Rake, YAKE!, TextRank](https://vc.ru/newtechaudit/449493-algoritmy-dlya-vydeleniya-klyuchevyh-slov-rake-yake-textrank)
 
-[Создание семантических полей на основе ключевых слов](https://habr.com/ru/company/surfingbird/blog/301922/)
+[Пример сравнительного использования алгоритмов Rake и keyBERT, а также грамматическая фильтрация средствами Spacy](https://towardsdatascience.com/keyword-extraction-a-benchmark-of-7-algorithms-in-python-8a905326d93f)
 
 **Векторное представление слов**
-
-[Word2Vec: как работать с векторными представлениями слов](https://neurohive.io/ru/osnovy-data-science/word2vec-vektornye-predstavlenija-slov-dlja-mashinnogo-obuchenija/)
-
-[Обучаем Word2vec: практикум по созданию векторных моделей языка](https://sysblok.ru/knowhow/obuchaem-word2vec-praktikum-po-sozdaniju-vektornyh-modelej-jazyka/)
-
-[Визуализация вложений Word2Vec в Word с помощью t-SNE](https://machinelearningmastery.ru/google-news-and-leo-tolstoy-visualizing-word2vec-word-embeddings-with-t-sne-11558d8bd4d/)
 
 [Проект Natasha](https://github.com/natasha)
 
@@ -81,18 +71,20 @@
 
 [Navec - коллекция предобученных вложений проекта Natasha](https://github.com/natasha/navec)
 
+**Визуализация ключевых слов**
+
+[Визуализация вложений Word2Vec в Word с помощью t-SNE](https://machinelearningmastery.ru/google-news-and-leo-tolstoy-visualizing-word2vec-word-embeddings-with-t-sne-11558d8bd4d/)
+
 **извлечение именованных сущностей**
 
 [Описание проекта NRLPK](https://habr.com/ru/post/468141/)
 [проект NRLPK](https://github.com/avl33/nrlpk)
 
-**тематическое моделирование**
-
-[Тематическое моделирование средствами BigARTM](https://habr.com/ru/post/334668/)
-[Тематическое моделирование новостей с помощью факторного анализа](https://habr.com/ru/post/470618/)
-[Тематическое моделирование форума](https://habr.com/ru/company/otus/blog/503398/)
-
 **Дополнительно**
+
+[Word2Vec: как работать с векторными представлениями слов](https://neurohive.io/ru/osnovy-data-science/word2vec-vektornye-predstavlenija-slov-dlja-mashinnogo-obuchenija/)
+
+[Обучаем Word2vec: практикум по созданию векторных моделей языка](https://sysblok.ru/knowhow/obuchaem-word2vec-praktikum-po-sozdaniju-vektornyh-modelej-jazyka/)
 
 [библиотека проекта Natasha](https://natasha.github.io/corus/)
 
@@ -101,19 +93,3 @@
 [корпус Taiga](https://tatianashavrina.github.io/taiga_site/)
 
 [датасет РИА Новости](https://github.com/RossiyaSegodnya/ria_news_dataset)
-
-[РуСентиЛекс – электронный словарь экспрессивно окрашенной лексики](https://www.labinform.ru/pub/rusentilex/index.htm)
-
-[Using LDA Topic Models as a Classification Model Input](https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28)
-
-[Unsupervised topic model in Python](https://towardsdatascience.com/introduction-to-nlp-part-5a-unsupervised-topic-model-in-python-733f76b3dc2d)
-
-[The Ultimate Guide to Clustering Algorithms and Topic Modeling](https://towardsdatascience.com/the-ultimate-guide-to-clustering-algorithms-and-topic-modeling-3a65129df324)
-
-[Zero-shot Topic Modeling with Deep Learning Using Python Hugging Face](https://medium.com/grabngoinfo/zero-shot-topic-modeling-with-deep-learning-using-python-a895d2d0c773)
-
-[Multilingual Dynamic Topic Model](https://aclanthology.org/R19-1159/)
-
-[Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora](https://aclanthology.org/D09-1026/)
-
-[Tree-Structured Neural Topic Model](https://aclanthology.org/2020.acl-main.73/)
