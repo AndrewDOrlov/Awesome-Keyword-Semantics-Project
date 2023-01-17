@@ -61,6 +61,8 @@
 
 [Библиотека RAKE-nltk](https://pypi.org/project/rake-nltk/)
 
+[Библиотека nlp-rake](https://pypi.org/project/nlp-rake/)
+
 **Векторное представление слов**
 
 [Проект Natasha](https://github.com/natasha)
