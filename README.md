@@ -47,7 +47,7 @@
 
 **тематическое моделирование**
 
-[Способы тематического моделирования](https://sysblok.ru/knowhow/kak-ponjat-o-chem-tekst-ne-chitaja-ego/)
+[cпособы тематического моделирования](https://sysblok.ru/knowhow/kak-ponjat-o-chem-tekst-ne-chitaja-ego/)
 
 [реализация алгоритма LDA на основе библиотеки Gensim](https://sysblok.ru/nlp/kak-sdelat-tematicheskoe-modelirovanie/)
 [пример использования модели LDA в библиотеке Gensim](https://radimrehurek.com/gensim/models/ldamodel.html)
@@ -56,11 +56,11 @@
 
 **извлечение ключевых слов**
 
-[Описание алгоритмов для выделения ключевых слов: Rake, YAKE!, TextRank](https://vc.ru/newtechaudit/449493-algoritmy-dlya-vydeleniya-klyuchevyh-slov-rake-yake-textrank)
+[описание алгоритмов для выделения ключевых слов: Rake, YAKE!, TextRank](https://vc.ru/newtechaudit/449493-algoritmy-dlya-vydeleniya-klyuchevyh-slov-rake-yake-textrank)
 
 [Пример сравнительного использования алгоритмов Rake и keyBERT, а также грамматическая фильтрация средствами Spacy](https://towardsdatascience.com/keyword-extraction-a-benchmark-of-7-algorithms-in-python-8a905326d93f)
 
 **извлечение именованных сущностей**
 
-[Описание проекта NRLPK](https://habr.com/ru/post/468141/)
+[описание проекта NRLPK](https://habr.com/ru/post/468141/)
 [проект NRLPK](https://github.com/avl33/nrlpk)
