@@ -39,14 +39,20 @@
 - разработка парсера (загрузчика текстов) для сайта [SecurityLab.ru](https://www.securitylab.ru/);
 - создание текстового корпуса из новостных публикаций;
 - разработка функции тематического моделирования;
-- разработка функции грамматической фильтрации средствами библиотеки Spacy;
-- разработка функции фильтрации на основе семантического сходства с помощью модели Rusvectores или Navec;
-- создание функции визуализации облака ключевых слов с помощью библиотеки mathplotter;
-- создание общей функции выделения ключевых слов;
-- 
--  *дополнительно: разработка функций выделения ключевых слов с помощью Gensim и KeyBERT;
+- наименование выделенных системой тем
+- добавление соответствующих тем в качестве тематических тегов для текстов в корпусе
+- создание функции визуализации облака тегов с помощью библиотеки mathplotter;
  
-### Ссылки 
+### Ссылки
+
+**тематическое моделирование**
+
+[Способы тематического моделирования](https://sysblok.ru/knowhow/kak-ponjat-o-chem-tekst-ne-chitaja-ego/)
+
+[реализация алгоритма LDA на основе библиотеки Gensim](https://sysblok.ru/nlp/kak-sdelat-tematicheskoe-modelirovanie/)
+[пример использования модели LDA в библиотеке Gensim](https://radimrehurek.com/gensim/models/ldamodel.html)
+
+[пример структурированного древа тегов на сайте](https://eda.ru/)
 
 **извлечение ключевых слов**
 
@@ -54,41 +60,7 @@
 
 [Пример сравнительного использования алгоритмов Rake и keyBERT, а также грамматическая фильтрация средствами Spacy](https://towardsdatascience.com/keyword-extraction-a-benchmark-of-7-algorithms-in-python-8a905326d93f)
 
-[Библиотека RAKE-nltk](https://pypi.org/project/rake-nltk/)
-
-[Библиотека nlp-rake](https://pypi.org/project/nlp-rake/)
-
-**Векторное представление слов**
-
-[Проект Natasha](https://github.com/natasha)
-
-[Описание проекта Natasha](https://habr.com/ru/post/516098/)
-
-[Дополнительное описание проекта Natasha](https://habr.com/ru/post/349864/)
-
-[Rusvectores - библиотека вложений](https://rusvectores.org/ru/models/)
-
-[Navec - коллекция предобученных вложений проекта Natasha](https://github.com/natasha/navec)
-
-**Визуализация ключевых слов**
-
-[Визуализация вложений Word2Vec в Word с помощью t-SNE](https://machinelearningmastery.ru/google-news-and-leo-tolstoy-visualizing-word2vec-word-embeddings-with-t-sne-11558d8bd4d/)
-
 **извлечение именованных сущностей**
 
 [Описание проекта NRLPK](https://habr.com/ru/post/468141/)
 [проект NRLPK](https://github.com/avl33/nrlpk)
-
-**Дополнительно**
-
-[Word2Vec: как работать с векторными представлениями слов](https://neurohive.io/ru/osnovy-data-science/word2vec-vektornye-predstavlenija-slov-dlja-mashinnogo-obuchenija/)
-
-[Обучаем Word2vec: практикум по созданию векторных моделей языка](https://sysblok.ru/knowhow/obuchaem-word2vec-praktikum-po-sozdaniju-vektornyh-modelej-jazyka/)
-
-[библиотека проекта Natasha](https://natasha.github.io/corus/)
-
-[открытый датасет Lenta.ru](https://github.com/yutkin/Lenta.Ru-News-Dataset)
-
-[корпус Taiga](https://tatianashavrina.github.io/taiga_site/)
-
-[датасет РИА Новости](https://github.com/RossiyaSegodnya/ria_news_dataset)
