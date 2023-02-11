@@ -65,6 +65,7 @@
 [Пример сравнительного использования алгоритмов Rake и keyBERT, а также грамматическая фильтрация средствами Spacy](https://towardsdatascience.com/keyword-extraction-a-benchmark-of-7-algorithms-in-python-8a905326d93f)
 
 **извлечение именованных сущностей**
-[обзорная статься](https://sysblok.ru/glossary/named-entity-recognition-ner/)
+
+[обзорная статья](https://sysblok.ru/glossary/named-entity-recognition-ner/)
 
 [описание проекта NRLPK](https://habr.com/ru/post/468141/)
