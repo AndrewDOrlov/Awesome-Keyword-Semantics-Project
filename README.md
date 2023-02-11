@@ -54,6 +54,7 @@
 [cпособы тематического моделирования](https://sysblok.ru/knowhow/kak-ponjat-o-chem-tekst-ne-chitaja-ego/)
 
 [реализация алгоритма LDA на основе библиотеки Gensim](https://sysblok.ru/nlp/kak-sdelat-tematicheskoe-modelirovanie/)
+
 [пример использования модели LDA в библиотеке Gensim](https://radimrehurek.com/gensim/models/ldamodel.html)
 
 [пример структурированного древа тегов на сайте](https://eda.ru/)
