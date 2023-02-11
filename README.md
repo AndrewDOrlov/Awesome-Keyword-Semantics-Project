@@ -66,4 +66,5 @@
 
 **извлечение именованных сущностей**
 [обзорная статься](https://sysblok.ru/glossary/named-entity-recognition-ner/)
+
 [описание проекта NRLPK](https://habr.com/ru/post/468141/)
